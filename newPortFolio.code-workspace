@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../3d_portFolio"
+		},
+		{
+			"path": "../../Downloads/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3d_portFolio"
+	}
+}
